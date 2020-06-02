@@ -1,0 +1,4 @@
+resources:
+- bond-bs-app.yaml
+- dev-taxi-app.yaml
+- kustomization.yaml

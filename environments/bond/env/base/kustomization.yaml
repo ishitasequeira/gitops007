@@ -1,0 +1,3 @@
+resources:
+- bond-environment.yaml
+- bond-rolebinding.yaml
